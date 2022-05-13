@@ -1,5 +1,6 @@
 # 100-days-of-code
 During the next 100 days I will focus on improving my frontend skills through building several single page sites using React and several web services, learning new CSS animation and design skills, and working towards building a portfolio website as well as two larger projects.
+
 ## Completed project:
 - [100daysofcodeblog](https://adriaanb.herokuapp.com/)
 
