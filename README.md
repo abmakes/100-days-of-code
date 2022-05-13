@@ -16,3 +16,5 @@ Tomorrow, I will also work on fetching blog posts from github using the github a
 ## Day2 - Deployed website and linked github
 
 Today I finally managed the deploy as Heroku had changed some authentication issues. I also worked on a post about the intitial Django to deploy steps. I managed to create a quick javascript fucntion to fetch commits to this document and display them as posts on the blog. Using the django backend would have been easier but I want every blog to show on my github activity. This method allows me to do that. Here is a link to the blog https://adriaanb.herokuapp.com/.
+
+## Day3 - Finalized blog, learned some new CSS<
