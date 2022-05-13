@@ -17,4 +17,17 @@ Tomorrow, I will also work on fetching blog posts from github using the github a
 
 Today I finally managed the deploy as Heroku had changed some authentication issues. I also worked on a post about the intitial Django to deploy steps. I managed to create a quick javascript fucntion to fetch commits to this document and display them as posts on the blog. Using the django backend would have been easier but I want every blog to show on my github activity. This method allows me to do that. Here is a link to the blog https://adriaanb.herokuapp.com/.
 
-## Day3 - Finalized blog, learned some new CSS<
+## Day3 - Finalized blog, learned some new CSS
+
+Today I finalized the blog setup & workflow to make it easy and managable. It is not optimized or super user friendly, but this is just a minimum viable product so I can focus on the other projects I want to work on. I might make some changes down the line, but for now it will work. I learned some new CSS techniques that I will need for upcoming projects including modifying range sliders and dark/light mode. Added the light and dark mode to my blog depending on your browser color preference.
+
+I also picked up this monster of a VScode modification, go to Preferences > Keyboard Shortcuts and add the Alt+W shortcut to quickly wrap text in a tag:
+
+```{
+"key": "alt+w",
+"command": "editor.emmet.action.wrapWithAbbreviation",
+"when": "editorHasSelection && editorTextFocus"
+}
+```
+
+An emmet widow will open and you can enter the tag abdreviation eg. make aselection of some text > press Alt+W > write "p" and press Enter. Text will be wrapped in a paragraph tag. BOOM! MAGIC :)
