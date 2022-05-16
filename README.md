@@ -31,3 +31,7 @@ I also picked up this monster of a VScode modification, go to Preferences > Keyb
 ```
 
 An emmet widow will open and you can enter the tag abdreviation eg. make aselection of some text > press Alt+W > write "p" and press Enter. Text will be wrapped in a paragraph tag. BOOM! MAGIC :)
+
+## Day 4&5 - React tutorials
+
+Weekends are my busiest time, so 1 hour of tutorials is what I'll be aiming for every weekend. Worked through some of FreeCodeCamps tutorials, but find the process when you are stuck a bit tedious. However, I will still finish it no matter what.
