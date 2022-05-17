@@ -35,3 +35,6 @@ An emmet widow will open and you can enter the tag abdreviation eg. make aselect
 ## Day 4&5 - React tutorials
 
 Weekends are my busiest time, so 1 hour of tutorials is what I'll be aiming for every weekend. Worked through some of FreeCodeCamps tutorials, but find the process when you are stuck a bit tedious. However, I will still finish it no matter what.
+
+## Day 6 - Scrimba React Course
+Today I started with the Scrimba React course. I had hoped to be building my own React projects by now, but I will take a few more days to review the basics. I managed to finish the first section. The videos and practice excercies have a nicer progression than the ones on FreeCodeCamp, in my opinion, but I still want to do the FCC projects. I will do the scrimba digital business card skills test project tomorrow.
