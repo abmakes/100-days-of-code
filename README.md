@@ -9,7 +9,7 @@ During the next 100 days I will focus on improving my frontend skills through bu
 
 ...and we're off.
 
-Today started off a bit slowly with me fumbling through attempts to create a blog as quickly as I can. Tried github pages with Jekyll, but I didn't want to install Ruby. Tried Gatsby, but I'm not proficient enough with react yet and attempting to modifying themes was tedious. Last chance to pull it off, go back to what you know. I built this simple page using Django, HTML and CSS. Attempted deployment, but I need to sort out some Heroku authentication issues. Will finish tomorrow
+Today started off a bit slowly with me fumbling through attempts to create a blog as quickly as I can. Tried github pages with Jekyll, but I didn't want to install Ruby. Tried Gatsby, but I'm not proficient enough with react yet and attempting to modifying themes was tedious. Last chance to pull it off, go back to what you know. I built this siprogress.htmlmple page using Django, HTML and CSS. Attempted deployment, but I need to sort out some Heroku authentication issues. Will finish tomorrow
 
 Tomorrow, I will also work on fetching blog posts from github using the github api, maybe try add some finess to the page. I am not looking to make this site too complex. I just want a place to share my thoughts and document my journey.
 
@@ -38,3 +38,13 @@ Weekends are my busiest time, so 1 hour of tutorials is what I'll be aiming for 
 
 ## Day 6 - Scrimba React Course
 Today I started with the Scrimba React course. I had hoped to be building my own React projects by now, but I will take a few more days to review the basics. I managed to finish the first section. The videos and practice excercies have a nicer progression than the ones on FreeCodeCamp, in my opinion, but I still want to do the FCC projects. I will do the scrimba digital business card skills test project tomorrow.
+
+## Day7&8 - More React on Scrimba
+
+This course is great, really feel like concepts are hitting home and being reinforced. Here are the two solo projects from section 1&2:
+
+- [A digital business card](https://scrimba.com/scrim/c9zWGpCZ)
+- [A travel journal](https://scrimba.com/scrim/cod0944519b723483f05f0e04)
+
+
+Next, I might try build something of my own woth react and deploy it on Netlify before I move on with this course.
