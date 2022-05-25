@@ -52,3 +52,10 @@ Next, I might try build something of my own with react and deploy it on Netlify 
 ## Day 9&10 - Portfolio design and netlify
 
 Spent a lot of time in Figma working on my portfolio design. Trying to make it my own resulted in a lot of pizza on the page. Created a quick React App and learned to deploy on Netlify. The app is terrible, not responsive and basically a static page. But I'm excited to add some functionality in the next week. Also worked on some CSS animation techniques for text reveals, see this [codepen](https://codepen.io/abmakes/pen/bGLRrjG).
+
+# Day 11, 12 and 13 - More SCRIMBA React Basics
+
+Weekends are for coursework, did an hour of react course on both Saturday and Sunday. Got really stuck in on Monday and almost finished the third section. This course is addictive, just want to keep pushing on. Some of the concepts covered in the last 3 days.
+
+ - Event listeners, state, conditional rendering, forms, side effects, working with local storage, passing paramaters down through functions, lazy loading.
+ - Also some javascript methods, array.filter(), spread, event destructuring.
