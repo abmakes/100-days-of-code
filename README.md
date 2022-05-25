@@ -47,4 +47,8 @@ This course is great, really feel like concepts are hitting home and being reinf
 - [A travel journal](https://scrimba.com/scrim/cod0944519b723483f05f0e04)
 
 
-Next, I might try build something of my own woth react and deploy it on Netlify before I move on with this course.
+Next, I might try build something of my own with react and deploy it on Netlify before I move on with this course.
+
+## Day 9&10 - Portfolio design and netlify
+
+Spent a lot of time in Figma working on my portfolio design. Trying to make it my own resulted in a lot of pizza on the page. Created a quick React App and learned to deploy on Netlify. The app is terrible, not responsive and basically a static page. But I'm excited to add some functionality in the next week. Also worked on some CSS animation techniques for text reveals, see this [codepen](https://codepen.io/abmakes/pen/bGLRrjG).
