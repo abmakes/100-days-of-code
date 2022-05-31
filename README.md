@@ -63,3 +63,8 @@ Weekends are for coursework, did an hour of react course on both Saturday and Su
 ## Day 14 - React Projects
 
 Finished scrimba meme generator and notes app. Started my own react app Save Dave, an expense tracker. Will share more about it in the coming days.
+
+## Day 15-17 - Save Dave
+Started building my ideal expense tracker, added a chartJS doughnut chart and deployed it on netlify. Linked github to netlify and worked on an MVP for the app.
+
+Worked on Neobrutalist design and using sliders to manage values in state. There is still a lot to do, especially with expense storage and responsive design, but the current version is live at [save-dave.netlify.app](https://save-dave.netlify.app/).
